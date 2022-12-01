@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ADD8E6;
+
+}
+
+#corpo{
+    border: solid white;
+    border-radius: 20px;
+    margin: 10%;
+    width: 30%;
+    padding: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+input, button{
+    height: 80px;
+    width: 150px;
+    background-color: #87CEFA;
+    border: solid white;
+    border-radius: 20px;
+}

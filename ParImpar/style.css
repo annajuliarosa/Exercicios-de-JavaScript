@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: #ADD8E6;
+
+}
+
+#corpo{
+    border: solid white;
+    border-radius: 20px;
+    margin: 10%;
+    width: 20%;
+    padding: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
